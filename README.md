@@ -1,26 +1,26 @@
 <h1 align="center">Hola, soy Nico 👋
-<h3 align="center">Estudiante de Ing. Informatica 🎓
 
-### 🛠 &nbsp;Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+[![linkedin](https://img.shields.io/badge/linkedin-0274b3?style=flat&logo=linkedin&logoColor=ffffff&labelColor=0274b3&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnicolasbarrios%2F)](https://www.linkedin.com/in/nicolasbarrios/)
+[![instagran](https://img.shields.io/badge/instagram-df4b67?style=flat&logo=instagram&logoColor=ffffff&labelColor=df4b67&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnicolasbarrios%2F)](https://www.instagram.com/nicoo0.b/)
+[![twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=ffffff&labelColor=000000)](https://twitter.com/aleeen_la)
+[![mail](https://img.shields.io/badge/mail-ea4335?style=flat&logo=gmail&logoColor=ffffff&labelColor=ea4335)](mailto:contactoaleen@gmail.com)
+
+### 🛠 &nbsp;Sobre mi
+ <p>
+ 👩‍🎓  A Sophomore year CSE undergrad at Terna Engineering College.
+<br>🐱 I'm 19 y/o, go by she/her pronouns.
+<br>💫 I’m a front-end web developer, currently learning React, Python and ML/AI.
+<br>⭐ Besides all that I love reading books, sometimes writing them(lol), cats, BTS & all things aesthetic.
+<br>👩‍💻 Constantly learning. I'm very interested in Open Source!
+ <br> <p align="center"><i>✨(Click on the header to know more!)✨</i></p>
+ </p>
+
+### 🛠 &nbsp;Lenguajes y Herramientas
+![python](https://img.shields.io/badge/python-0d1117?style=flat&logo=python&logoColor=ffdc4d&labelColor=0d1117)&nbsp;
+![sql](https://img.shields.io/badge/sql-0d1117?style=flat&logo=oracle&logoColor=ff0000&labelColor=0d1117)&nbsp;
+![swift](https://img.shields.io/badge/swift-0d1117?style=flat&logo=swift&logoColor=ff5722&labelColor=0d1117)&nbsp;
+![red hat](https://img.shields.io/badge/red%20hat-0d1117?style=flat&logo=red%20hat&logoColor=ef0808&labelColor=0d1117)&nbsp;
+![visual studio code](https://img.shields.io/badge/visual%20studio%20code-0d1117?style=flat&logo=visual%20studio%20code&logoColor=55b4f5&labelColor=0d1117)&nbsp;
+![photoshop](https://img.shields.io/badge/photoshop-0d1117?style=flat&logo=adobe%20photoshop&logoColor=31a8ff&labelColor=0d1117)\
+![premiere](https://img.shields.io/badge/premiere-0d1117?style=flat&logo=adobe%20premiere%20pro&logoColor=9999ff&labelColor=0d1117)&nbsp;
+
