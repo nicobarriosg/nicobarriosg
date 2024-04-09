@@ -5,16 +5,6 @@
 [![twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=ffffff&labelColor=000000)](https://twitter.com/aleeen_la)
 [![mail](https://img.shields.io/badge/mail-ea4335?style=flat&logo=gmail&logoColor=ffffff&labelColor=ea4335)](mailto:contactoaleen@gmail.com)
 
-### 🛠 &nbsp;Sobre mi
- <p>
- 👩‍🎓  A Sophomore year CSE undergrad at Terna Engineering College.
-<br>🐱 I'm 19 y/o, go by she/her pronouns.
-<br>💫 I’m a front-end web developer, currently learning React, Python and ML/AI.
-<br>⭐ Besides all that I love reading books, sometimes writing them(lol), cats, BTS & all things aesthetic.
-<br>👩‍💻 Constantly learning. I'm very interested in Open Source!
- <br> <p align="center"><i>✨(Click on the header to know more!)✨</i></p>
- </p>
-
 ### 🛠 &nbsp;Lenguajes y Herramientas
 ![python](https://img.shields.io/badge/python-0d1117?style=flat&logo=python&logoColor=ffdc4d&labelColor=0d1117)&nbsp;
 ![sql](https://img.shields.io/badge/sql-0d1117?style=flat&logo=oracle&logoColor=ff0000&labelColor=0d1117)&nbsp;
