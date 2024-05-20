@@ -5,7 +5,7 @@
 [![twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=ffffff&labelColor=000000)](https://twitter.com/aleeen_la)
 [![mail](https://img.shields.io/badge/mail-ea4335?style=flat&logo=gmail&logoColor=ffffff&labelColor=ea4335)](mailto:contactoaleen@gmail.com)
 
-### 🛠 &nbsp;Lenguajes y Herramientas
+###  &nbsp;Lenguajes y Herramientas 🛠
 ![python](https://img.shields.io/badge/python-0d1117?style=flat&logo=python&logoColor=ffdc4d&labelColor=0d1117)&nbsp;
 ![sql](https://img.shields.io/badge/sql-0d1117?style=flat&logo=oracle&logoColor=ff0000&labelColor=0d1117)&nbsp;
 ![swift](https://img.shields.io/badge/swift-0d1117?style=flat&logo=swift&logoColor=ff5722&labelColor=0d1117)&nbsp;
