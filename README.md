@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Nico 👋
 
-<h3 align="center">¡Hola! Soy Nico, una estudiante de ingeniería informática apasionada por los esports y la programacion.
+<h3 align="center">¡Hola! Soy Nico.
 
 ##  Lenguajes y Herramientas 🛠
 ![python](https://img.shields.io/badge/python-0d1117?style=flat&logo=python&logoColor=ffdc4d&labelColor=0d1117)&nbsp;
