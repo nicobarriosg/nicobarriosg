@@ -17,6 +17,7 @@
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-%23EE0000?style=flat-square&logo=red%20hat&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NodeJS-%235FA04E?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=django&logoColor=white)
 
 **Other Tools**
 
